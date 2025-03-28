@@ -1,0 +1,71 @@
+% Options here are passed to the article class.
+% Most common options: 10pt, 11pt, 12pt
+\documentclass[10pt]{datasheet2}
+
+% Input encoding and typographical rules for English language
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[english]{isodate}
+
+% tikz is used to draw images in this example, but you can
+% also use \includegraphics{}.
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{subcaption}
+
+% These define global texts that are used in headers and titles.
+\title{Welcome to Soontech!}
+\author{Soontech Staff}
+\tags{encoded-tech, public-archive, community-servers}
+\date{25 December 2024}
+\revision{Revision 1}
+\begin{document}
+\maketitle
+
+
+
+\begin{multicols}{2}
+\section{Features}
+\begin{itemize}
+\item{
+   \href{https://github.com/Soontech-Annals/Archive}{\textbf{Public Archives}}: Over 50+ schematics and counting, with full LaTeX documentation for each device. This archive is a resource for anyone looking to learn about encoded storage tech in Minecraft.
+}
+\item{
+   \href{https://discord.gg/rJ4W8RHrhe}{\textbf{Soontech Annals}}: A private Discord server which meets annually to curate content for the public archives. The most knowledgeable players in the community are members here.
+}
+\item{
+   \href{https://discord.gg/dkSM2PyzJe}{\textbf{Soontech Now!}}: A community-run public Discord server for developing and learning about encoded storage technology in Minecraft. This server is open to anyone, and features weekly classes and public Minecraft servers for practical learning.
+}
+\end{itemize}
+
+\columnbreak
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\textwidth]{soontm2.png}
+    \caption{\centering Soontech Logo}
+\end{figure}
+
+\end{multicols}
+
+\section{General Description}
+Have you ever wanted to learn more about encoded storage technology in Minecraft?
+
+We at Soontech are dedicated to documenting and sharing our knowledge, so that you can learn more about this fascinating subject. Our goal is to make it easy for anyone to get started with encoded storage, regardless of their experience level.
+
+\subsection{What is Encoded Storage?}
+
+An encoded storage is a system that uses redstone signals to sort and store items in Minecraft. Many fancy things can be done with encoded storage, such as:
+
+\begin{itemize}
+    \item Extremely fast sorting using splitters and encoders
+    \item Remote call systems that allow you to access your items from anywhere in the world
+    \item Autocrafting systems that restock your supplies automatically
+    \item And much more!
+\end{itemize}
+
+
+
+
+\end{document}
+
