@@ -74,7 +74,7 @@
 % First page title layout is defined here
 \renewcommand{\maketitle}{%
     \onecolumn
-        {\Large \href{https://discord.gg/rJ4W8RHrhe}{\color{black}{Soontech Annals}}}
+        {\Large \href{https://soontech.org}{\color{black}{Soontech Annals}}}
         \vspace{0.3cm}\\
         {\Huge\sffamily\bfseries\@title}
         \vspace{0.2cm}
@@ -103,7 +103,7 @@
 \fancypagestyle{normalpage}{
     \renewcommand{\headrulewidth}{0.5pt}
     \renewcommand{\footrulewidth}{0.5pt}
-    \fancyhead[L]{\href{https://discord.gg/rJ4W8RHrhe}{\color{black}{Soontech Annals}}}
+    \fancyhead[L]{\href{https://soontech.org}{\color{black}{Soontech Annals}}}
     \fancyhead[C]{\slshape\@title}
     \fancyhead[R]{\@date}
     \fancyfoot[L]{\@revision}
