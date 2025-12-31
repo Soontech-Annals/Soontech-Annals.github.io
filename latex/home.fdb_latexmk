@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1767207279 "/Users/andrews/Desktop/mc/Soontech-Annals.github.io/latex/home.tex" "home.pdf" "home" 1767207280
+["pdflatex"] 1767209693 "/Users/andrews/Desktop/mc/Soontech-Annals.github.io/latex/home.tex" "home.pdf" "home" 1767209693
   "/Users/andrews/Desktop/mc/Soontech-Annals.github.io/latex/home.tex" 1767206696 2807 5ccea0ae56c14c74194d39fe44a38332 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -90,10 +90,10 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1667160892 2826458 382a38366c8a5d9b37a87a61c7fc20ef ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "datasheet2.cls" 1749772965 4049 7092013f07e7cad97b8cc4fae8c27862 ""
-  "home.aux" 1767207280 1337 0d2a7fec98c5a88b1c12cc4d73e56787 "pdflatex"
-  "home.out" 1767207280 409 e81524da95dfb7d33ea8ad83af5b7404 "pdflatex"
+  "home.aux" 1767209693 1337 0d2a7fec98c5a88b1c12cc4d73e56787 "pdflatex"
+  "home.out" 1767209693 409 e81524da95dfb7d33ea8ad83af5b7404 "pdflatex"
   "home.tex" 1767206696 2807 5ccea0ae56c14c74194d39fe44a38332 ""
-  "logo.png" 1767207279 34092 f4acd3b3f4056ba0e51f401ab5a5038e ""
+  "logo.png" 1767209692 17914 fc156e3db70eb5772cbadea32ecae09c ""
   (generated)
   "home.aux"
   "home.log"

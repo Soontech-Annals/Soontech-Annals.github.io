@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Computer Modern Sans";
+  src: url("cm-unicode-0.7.0/cmunss.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Computer Modern Sans";
+  src: url("cm-unicode-0.7.0/cmunsi.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Computer Modern Sans";
+  src: url("cm-unicode-0.7.0/cmunsx.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Computer Modern Sans";
+  src: url("cm-unicode-0.7.0/cmunso.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
